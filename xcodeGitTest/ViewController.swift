@@ -21,11 +21,11 @@ class ViewController: UIViewController {
     }
     
     override func viewWillAppear(_ animated: Bool) {
-        <#code#>
+        print("123")
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        <#code#>
+        print("456")
     }
 
 
